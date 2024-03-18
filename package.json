@@ -1,9 +1,9 @@
 {
-  "name": "mangopay2-nodejs-sdk",
+  "name": "@webel-technologies/mangopay2-nodejs-sdk",
   "version": "1.44.0",
   "types": "./typings/index.d.ts",
   "description": "Mangopay Node.js SDK",
-  "repository": "https://github.com/Mangopay/mangopay2-nodejs-sdk.git",
+  "repository": "https://github.com/Webel-Technologies/mangopay2-nodejs-sdk",
   "license": "MIT",
   "keywords": [
     "mangopay",
